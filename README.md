@@ -1,2 +1,2 @@
-# python_practice-
+# python_practice
 This is a Python practice.
