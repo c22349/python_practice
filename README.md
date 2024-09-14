@@ -2,4 +2,4 @@
 This is a Python practice.
 
 Udemy
-API
+ChatGPT API
